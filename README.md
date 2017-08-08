@@ -2,7 +2,7 @@
 
 ![Angular Authentication Tutorial](https://s3.amazonaws.com/coursetro/posts/32-full.png)
 
-#quick start
+# Quick start
 ```
 git clone https://github.com/alexandra1030/authentication-angular.git
 cd authentication-angular
